@@ -87,7 +87,7 @@ There are four kinds of analysis that have been carried out on the collected dat
 	  and 50 news articles collected in the previous module. 
 
 	- Comparison of twitter and news sentiments analysis for the common-named entities 
-	  identified in the previous module. 
+	  identified in the previous module, plotted in 'plotly'. 
 
 	- As for a qualitative comparison between predicted versus original sentiment of the 
 	  tweet and news, the results can be accessed in an Excel file named, qualitative comparison. 
