@@ -98,7 +98,7 @@ There are four kinds of analysis that have been carried out on the collected dat
 
 	- As part of content analysis of tweets, the following attributes have been showcased. 
 		
-		# Word Cloud using 'wordcloud' package 
+		# Word Cloud using 'wordcloud' package, post removing stopwords 
 		
 		# Bigrams using 'NLTK' package
 
@@ -171,14 +171,11 @@ APPLICATION
 
 	- In Analysis, there are three views, namely, 
 
-		# Sentiment Analysis where an entity is input and the output is a graph showing a comparison
-		  of twitter and news sentiments. 
+		# Sentiment Analysis where an entity is input and the output is a graph showing a comparison of twitter and news sentiments. 
 
-		# Spatial Analysis where there are two world maps depicting the spatiality of tweets and news,
-		  respectively. 
+		# Spatial Analysis where there are two world maps depicting the spatiality of tweets and news, respectively. 
 
-		# Temporal Analysis where there are two scatter plots showing when tweets and news were generated/
-		  streamed.
+		# Temporal Analysis where there are two scatter plots showing when tweets and news were generated/streamed.
 
 
 
